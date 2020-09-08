@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Claire's Porfolio
+
+Hellow! Here you will find Claire's data science projects and something she enjoys doing outside of data science.
 
 You can use the [editor on GitHub](https://github.com/yzclaire/yzclaire.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
