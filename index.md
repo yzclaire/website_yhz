@@ -4,36 +4,11 @@ Hellow! Here you will find Claire's data science projects and something she enjo
 
 You can use the [editor on GitHub](https://github.com/yzclaire/yzclaire.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### [NYC Taxi Fare Analysis and Prediction](https://yzclaire.github.io/nyc_taxi_fare_analysis_and_prediction/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Come see what I discovered in NYC...Taxi Fare dataset!
+This project focuses on identifying any trends and patterns in New York City taxi fares. If we are able to discover any insights from the data, we can make recommendations to taxi drivers on how to boost their daily earnings.
+Secondly, I built linear regression and random forest regression models to predict taxi fares. We all know that taxi fares is calculated using trip distance (the longer the trip, the higher the taxi fares). What I am interested in is to see how other factors such time in a day, day in a week, pickup and dropoff locations and etc, affect taxi fares. Then we could answer questions like, the best time to work(mid-day, early monring or late night), the best day in a week to work, the best neighborhood to pickup passengers, to NYC taxi drivers. 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yzclaire/yzclaire.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
