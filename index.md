@@ -22,7 +22,7 @@ Knowing that every year there are more than 4 millions visitors to the Park, and
 For this project, I analyzed the monthly number of visitors to Yellowstone National Park from a time series perspecitve, and experimented with multiple models to forecast visitor volumn.
 
 
-### Iowa Liquor Sales Recommender System in Spark (https://yzclaire.github.io/Iowa_liquor_sales_recommender_systems_in_spark/)
+### [Iowa Liquor Sales Recommender System in Spark](https://yzclaire.github.io/Iowa_liquor_sales_recommender_systems_in_spark/)
 
 In the retail space, profit margin is usually low. So we are playing the game of volumn. The more sells generated, the more likely to make a profit.  One of startegies is creating cross-selling opportunity.
 
