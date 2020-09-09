@@ -17,6 +17,13 @@ One of my favorite road trips is to Yellowstone National Park.
 
 I was very lucky to have a chance to visit the Yellowstone National Park with a friend during the 4th of July 2019. I had a wonderful experience visiting Park. 
 
-Every year there are more than 4 millions visitors to the Park, and number is growing year by year. It would be great if we can make up-to-date forecast of visitor volumn to help the park service team to better plan and allocate resources. Ultmiately we hope to preserve the ecosystem (the natures and wildlife) and sustain the beauty of the Park to all visitors for many generations to come. 
+Knowing that every year there are more than 4 millions visitors to the Park, and number is growing year by year, I think it would be great if we can make up-to-date forecast of visitor volumn to help the park service team to better plan and allocate resources. Ultmiately we hope to preserve the ecosystem (the natures and wildlife) and sustain the beauty of the Park to all visitors for many generations to come. 
 
 For this project, I analyzed the monthly number of visitors to Yellowstone National Park from a time series perspecitve, and experimented with multiple models to forecast visitor volumn.
+
+
+### Iowa Liquor Sales Recommender System in Spark (https://yzclaire.github.io/Iowa_liquor_sales_recommender_systems_in_spark/)
+
+In the retail space, profit margin is usually low. So we are playing the game of volumn. The more sells generated, the more likely to make a profit.  One of startegies is creating cross-selling opportunity.
+
+At this project, I built recommender systems for Iowa liquor wholesale system to see if we can recommend new products to liquor stores. 
