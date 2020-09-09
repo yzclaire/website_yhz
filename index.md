@@ -11,3 +11,12 @@ This project focuses on identifying any trends and patterns in New York City tax
 Secondly, I built linear regression and random forest regression models to predict taxi fares. We all know that taxi fares is calculated using trip distance (the longer the trip, the higher the taxi fares). What I am interested in is to see how other factors such time in a day, day in a week, pickup and dropoff locations and etc, affect taxi fares. Then we could answer questions like, the best time to work (mid-day, early monring or late night), the best day in a week to work, the best neighborhood to pickup passengers, to NYC taxi drivers. 
 
 
+### [Yellowstone National Park Monthly Visitor Time Series Projects](https://yzclaire.github.io/yellowstone_national_park_monthly_visitors_time_series/)
+
+One of my favorite road trips is to Yellowstone National Park.
+
+I was very lucky to have a chance to visit the Yellowstone National Park with a friend during the 4th of July 2019. I had a wonderful experience visiting Park. 
+
+Every year there are more than 4 millions visitors to the Park, and number is growing year by year. It would be great if we can make up-to-date forecast of visitor volumn to help the park service team to better plan and allocate resources. Ultmiately we hope to preserve the ecosystem (the natures and wildlife) and sustain the beauty of the Park to all visitors for many generations to come. 
+
+For this project, I analyzed the monthly number of visitors to Yellowstone National Park from a time series perspecitve, and experimented with multiple models to forecast visitor volumn.
