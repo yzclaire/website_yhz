@@ -1,6 +1,6 @@
 ## Welcome to Claire's Porfolio
 
-Hellow! Here you will find Claire's data science projects and something she enjoys doing outside of data science.
+Hello! Here you will find Claire's data science projects and something she enjoys doing outside of data science.
 
 ### [NYC Taxi Fare Analysis and Prediction](https://yzclaire.github.io/nyc_taxi_fare_analysis_and_prediction/)
 
