@@ -27,3 +27,11 @@ For this project, I analyzed the monthly number of visitors to Yellowstone Natio
 In the retail space, profit margin is usually low. So we are playing the game of volumn. The more sales generated, the more likely to make a profit.  One of the startegies is find cross-selling opportunity from current clients.
 
 At this project, I built recommender systems for Iowa liquor wholesalers to see if we can recommend new products to liquor stores. 
+
+
+### Lending Club Loan Default Classification
+
+This project is split into 3 parts
+* [Part 1 - Exploratory Data Analysis](https://yzclaire.github.io/lending_club_loan_default_classification_part_1/)
+* [Part-2 - Data Cleaning and Feature Engineering](https://yzclaire.github.io/lending_club_loan_default_classification_part_2/)
+
